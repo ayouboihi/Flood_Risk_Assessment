@@ -275,7 +275,7 @@ Loss: BCE + Dice (handles class imbalance)
 ## 👤 Author
 
 **Ayoub** — Geomatics Engineer · Remote Sensing Scientist · GIS Specialist  
-📍 Heidelberg, Germany  
+📍 Mannheim, Germany  
 🔗 [github.com/ayouboihi](https://github.com/ayouboihi)
 
 ---
